@@ -5,56 +5,56 @@
 
     <url>
         <loc>https://peterileypainting.com/index</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://peterileypainting.com/store</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://peterileypainting.com/reviews</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://peterileypainting.com/gallery-All</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://peterileypainting.com/gallery</loc>
-        <lastmod>2022-04-18</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://peterileypainting.com/service-Exterior-Painting</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://peterileypainting.com/service-Industrial-Roof-Coatings</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-06-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://peterileypainting.com/service-Exterior-Painting</loc>
+        <lastmod>2022-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://peterileypainting.com/service-Other-Painting-Services</loc>
-        <lastmod>2022-04-18</lastmod>
+        <lastmod>2022-06-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
